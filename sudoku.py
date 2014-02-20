@@ -71,7 +71,6 @@ class Application(Tk):
             for j in range( len(self.resolved) ):
                 self.case[self.n].putValue(self.resolved[i][j])
                 self.n+=1
-	sv.recordEnd()
 
 ###[ RESOLUTION ]###
 
