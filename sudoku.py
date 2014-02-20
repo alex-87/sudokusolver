@@ -2,7 +2,9 @@
 # -*- coding: UTF-8 -*-
 
 '''
-
+This software generates a empty matrice and purpose to
+solve, by specifying constant values, the Sudoku,
+if possible.
 '''
 
 from Tkinter import *
